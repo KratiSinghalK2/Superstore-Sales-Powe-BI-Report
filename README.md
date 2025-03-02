@@ -36,9 +36,14 @@ The Superstore Sales Dashboard is designed to provide a comprehensive and intera
     
  4. Implement drill-through or tooltip features.
 
-#DASHBOARD
+# DASHBOARD
 
 ![Screenshot_20250302_123707](https://github.com/user-attachments/assets/36f37dd6-6421-40c9-8055-81d5924a743e)
+
+# Dashboard with Tooltip
+
+![Screenshot_20250302_123746](https://github.com/user-attachments/assets/5034745e-deff-49f5-b817-989baeb8fcaa)
+
 
 ## KEY INSIGHTS
 
