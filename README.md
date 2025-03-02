@@ -7,6 +7,39 @@ The Superstore Sales Dashboard is designed to provide a comprehensive and intera
 ## Dataset Used
 
 - <a href ="https://github.com/KratiSinghalK2/Superstore-Sales-Powe-BI-Report/blob/main/Superstore_Sales_Dataset%20(1).xlsx">Dataset</a>
+
+## Questions(KPIs)
+   
+- Create the following Power BI visuals:
+  
+- KPI Cards: Total Sales, Profit, and Quantity
+  
+- Line Chart: Monthly sales trends
+  
+- Map: Profit distribution across regions
+  
+- Bar Chart: Top & bottom products by profit
+  
+- Scatter Plot: Impact of discounts on profit margins
+
+- Summarize key insights and provide business recommendations.
+
+-Dashboard Interaction <a href ="https://github.com/KratiSinghalK2/Superstore-Sales-Powe-BI-Report/blob/main/Superstore%20sales%20assignment.pbix"> View Dashboard </a>
+
+ #Process
+ 
+ 1. Load the dataset into Power BI and ensure correct data types.
+    
+ 2. Handle missing values, duplicate records, and inconsistencies.
+  
+ 3. Add slicers for Date Range, Region, Customer Segment, and Product Category.
+    
+ 4. Implement drill-through or tooltip features.
+
+#DASHBOARD
+
+![Screenshot_20250302_123707](https://github.com/user-attachments/assets/36f37dd6-6421-40c9-8055-81d5924a743e)
+
 The Superstore Sales wat
 Boosting Sales in Peak Months: October and April have the highest sales, so focus on special promotions and discounts during these months. Sales are lowest in January—introduce special deals where customers receive gifts based on their purchase amount. Higher spending should lead to better gifts or coupons, helping to clear out old inventory from previous product cycles.
 
