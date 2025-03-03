@@ -51,7 +51,7 @@ The Superstore Sales Dashboard is designed to provide a comprehensive and intera
 
 **Improving Profits:** Tables, Chairs, and Bookcases generate very little profit. Lower costs by negotiating better supplier deals and improving marketing. Allow customers to register on our shop to receive notifications about price drops or special offers, increasing engagement. Since discounts don’t significantly impact profits, prioritize bulk discounts, loyalty rewards, and flexible pricing strategies instead.  
 
-**Growing in Different Regions:** The South region is the most profitable, so invest in better marketing through ads, emails, posters, and improved home delivery services. The West region has low profits—sales reach ₹36,000, but profits are only ₹6,000 due to high costs. Adjust pricing, optimize supply chains, and ensure the right product selection for that area.  
+**Growing in Different Regions:** The South region is the most profitable. The West region has low profits—sales reach ₹36,000, but profits are only ₹6,000 due to high costs. Adjust pricing, optimize supply chains, and ensure the right product selection for that area.  
 
 **Better Customer Strategies:** Cater to customers based on their preferences. Use email marketing, targeted ads, and loyalty programs to improve retention. Introduce a subscription model for frequently used office supplies like pens, paper, and staples to ensure regular sales.  
 
